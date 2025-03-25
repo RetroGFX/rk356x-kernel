@@ -81,6 +81,7 @@ dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3566-evb2-lp4x-v10-linux.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3566.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3566-rg503-linux.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3566-rk2023-linux.dtb
+dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3566-rgb20pro-linux.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3566-rgb30-linux.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3566-rgb30-v2-linux.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3566-max3pro-linux.dtb
