@@ -5,7 +5,7 @@
 	interrupt-parent = <0x01>;
 	#address-cells = <0x02>;
 	#size-cells = <0x02>;
-	model = "Rockchip RK3566 RG ARC";
+	model = "Anbernic RG ARC";
 
 	ddr3-params {
 		version = <0x100>;
